@@ -20,7 +20,7 @@ Dentro del juego se tendrá un enemigo, el cual aparece después de haberse equi
 2. Clase 2
 * caracteristica1
 * caracteristica2
-* caracteristica3.32321
+* caracteristica3.3
 
 3. Clase 3
 * caracteristica1
