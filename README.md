@@ -1,4 +1,4 @@
-![Acertijos](https://www.facebook.com/messages/t/100001619837312)
+![Acertijos](https://scontent.fgdl4-1.fna.fbcdn.net/v/t34.0-12/18600615_1601985876532058_1837571774_n.jpg?oh=58740481588e377b65ffa910b5be758f&oe=592D7BBC)
 
 ### Objetivo del juego/aplicación
 Poner en práctica lo aprendido en el curso, sobre todo la herencia multiple,  el polimorfismo, la aplicación de interfaces. 
