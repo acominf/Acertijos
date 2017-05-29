@@ -1,4 +1,4 @@
-![Sin Nombre](https://upload.wikimedia.org/wikipedia/commons/e/ef/En_construccion.jpg)
+![Acertijos](https://www.facebook.com/messages/t/100001619837312)
 
 ### Objetivo del juego/aplicación
 Poner en práctica lo aprendido en el curso, sobre todo la herencia multiple,  el polimorfismo, la aplicación de interfaces. 
