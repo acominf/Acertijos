@@ -28,10 +28,6 @@ Dentro del juego se tendrá un enemigo, el cual aparece después de haberse equi
 4. Ayuda
 * Muestra la informacion referente al juego.
 
-5. Clase 5
-* caracteristica1
-* caracteristica2
-* caracteristica3
 
 ### Diagrama de clases
 https://creately.com/diagram/ivu9myu12/1vk3lsdY4SLgYLX5KcdQqbbpckU%3D
