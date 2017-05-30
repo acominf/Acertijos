@@ -13,7 +13,7 @@ Dentro del juego se tendrá un enemigo, el cual aparece después de haberse equi
 
 ### Clases principales y sus características
 1. MyWorld
-* Cambiar de mundo(depende de que sea pulsado).
+* Cambiar de mundo(depende de que objeto sea pulsado).
 
 2. Pregunta
 * Poner la imagen de cada nivel.
