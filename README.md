@@ -38,7 +38,7 @@ Dentro del juego se tendrá un enemigo, el cual aparece después de haberse equi
 * caracteristica3
 
 ### Diagrama de clases
-![Diagrama de clases](url-del-diagrama.png)
+https://creately.com/diagram/ivu9myu12/1vk3lsdY4SLgYLX5KcdQqbbpckU%3D
 
 ### Autor(es)
 El autor(es) del proyecto son:
