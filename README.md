@@ -39,7 +39,7 @@ https://creately.com/diagram/ivu9myu12/1vk3lsdY4SLgYLX5KcdQqbbpckU%3D
 ### Autor(es)
 El autor(es) del proyecto son:
 - Josue Misael Agundis Romero(@misagundis)
-- Reyna Sarahi Avila Gonzalez(@nombreUsuarioGitHub)
+- Reyna Sarahi Avila Gonzalez(@Reyna96)
 
 ### Materia(s)
 - Programación Orientada a Objetos
