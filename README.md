@@ -12,25 +12,21 @@ En el momento que lleguen las vidas a 0, se tendrá la oportunidad de poder juga
 Dentro del juego se tendrá un enemigo, el cual aparece después de haberse equivocado en tres respuestas consecutivamente, el enemigo tendrá la tarea de ocultar o quitar alguna de la imágenes.
 
 ### Clases principales y sus características
-1. Clase 1
-* caracteristica1
-* caracteristica2
-* caracteristica31346
+1. MyWorld
+* Cambiar de mundo(depende de que sea pulsado).
 
-2. Clase 2
-* caracteristica1
-* caracteristica2
-* caracteristica3.3
+2. Pregunta
+* Poner la imagen de cada nivel.
+* Verificar que la respueta sea correcta.
+* Cuenta los puntos.
+* Lleva el control de las vidas.
 
-3. Clase 3
-* caracteristica1
-* caracteristica2
-* caracteristica3
+3. Records
+* Muestar los records en pantalla.
+* Ordena los records(mayor - menor).
 
-4. Clase 4
-* caracteristica1
-* caracteristica2
-* caracteristica3
+4. Ayuda
+* Muestra la informacion referente al juego.
 
 5. Clase 5
 * caracteristica1
