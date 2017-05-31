@@ -29,25 +29,20 @@ Dentro del juego se tendrá un enemigo, el cual aparece después de haberse acer
 * Muestra la informacion referente al juego.
 
 ### Objetos principales
-#### Respuesta Correcta
-https://www.dropbox.com/s/57duowmge9o75w1/Incorrecta.jpg?dl=0
+#### [Respuesta Correcta](https://www.dropbox.com/s/57duowmge9o75w1/Incorrecta.jpg?dl=0)
 
 Esta imagen se muestra cuando se acierta en una imagen.
-#### Respuesta Incorrecta
-https://www.dropbox.com/s/9jn4qbqraz2aqoj/Correcta.jpg?dl=0
+#### [Respuesta Incorrecta](https://www.dropbox.com/s/9jn4qbqraz2aqoj/Correcta.jpg?dl=0)
 
 Esta imagen se muestra cuando se equivoca en una imagen.
-#### Enemigo1
-https://www.dropbox.com/s/pbqvk00kqppty99/Enemigo1.jpg?dl=0
+#### [Enemigo1](https://www.dropbox.com/s/pbqvk00kqppty99/Enemigo1.jpg?dl=0)
 
 Este enemigo cubre una parte de las imagenes y aparece despues de cuatro respuestas correctas seguidas.
-#### Enemigo2 
-https://www.dropbox.com/s/osrioj9yogctu72/Enemigo2.jpg?dl=0
+#### [Enemigo2](https://www.dropbox.com/s/osrioj9yogctu72/Enemigo2.jpg?dl=0)
 
 Este enemigo restara 150 puntos al no acertar en la imagen y aparece despues de siete respuestas correctas seguidas.
 
-### Diagrama de clases
-https://creately.com/diagram/ivu9myu12/1vk3lsdY4SLgYLX5KcdQqbbpckU%3D
+### [Diagrama de clases](https://creately.com/diagram/ivu9myu12/1vk3lsdY4SLgYLX5KcdQqbbpckU%3D)
 
 ### Autor(es)
 El autor(es) del proyecto son:
@@ -61,8 +56,6 @@ El autor(es) del proyecto son:
 - 2016-2017/II
 
 ### Universidad Autónoma de San Luis Potosí, 2017
-### Poyecto
- https://www.dropbox.com/s/hgx0jwjln921tiw/Acertijos.rar?dl=0
+### [Poyecto](https://www.dropbox.com/s/hgx0jwjln921tiw/Acertijos.rar?dl=0)
 
-### Video
-https://www.youtube.com/watch?v=DaDjevSuyfE
+### [Video](https://www.youtube.com/watch?v=DaDjevSuyfE)
